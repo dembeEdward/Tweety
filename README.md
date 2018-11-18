@@ -12,7 +12,7 @@
 
 ## Running Tweety :hatched_chick:
 
-- To run tweety execute *node index --users [file location] --tweet [file locaton]*
+- To run tweety execute *node index --users [file location] --tweets [file locaton]*
 - To view all options execute *node index --help*
 
 ## Running Tweety Tests 
