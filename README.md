@@ -15,7 +15,7 @@
 - To run tweety execute *node index --users [file location] --tweet [file locaton]*
 - To view all options execute *node index --help*
 
-## Runing Tweety Tests 
+## Running Tweety Tests 
 
 - execute *npm test*
 
