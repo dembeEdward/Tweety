@@ -45,7 +45,7 @@
 8. If there is no word after follow the user will have no follows asigned.
 9. A follow is also validated the same as the username.
 
-##Tweets File
+## Tweets File
 
 1. Any characters before "> " are considered to be a username.
 2. The username will be validated.
@@ -53,7 +53,7 @@
 4. The tweet is validated: must have <= 140 characters.
 5. If no space is found after the character ">" or the character is not in the line, the line is skipped.
 
-##Other
+## Other
 
 1. All follows are users and must be registered as such.
 2. Each user is unique (does not duplicate).
