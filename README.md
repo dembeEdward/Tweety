@@ -18,7 +18,7 @@
 ## Running Tweety Tests 
 
 - execute *npm test*
-- if this does not work (mainly on windows) do a "npm install -g mocha" and then execute "mocha test" at tweety's root folder.
+- if this does not work (mainly on windows) do a *"npm install -g mocha"* and then execute *"mocha test"* at tweety's root folder.
 
 ## Assumptions
 
