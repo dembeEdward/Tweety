@@ -43,7 +43,7 @@
 5. If no valid username is found in all the lines, the program will terminate since there are no users to be processed.
 6. All characters after the word "follows" are considered to be the list of follows.
 7. A comma at the end of the word is considered to be a follow separator.
-8. If there is no word after follow the user will have no follows assigned.
+8. If there is no word after the word "follows" the user will have no follows assigned.
 9. A follow is also validated the same as the username.
 
 ## Tweets File
